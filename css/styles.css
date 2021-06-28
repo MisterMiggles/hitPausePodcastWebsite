@@ -1,1 +1,11 @@
+body {
+  font-family: system-ui;
+  background-attachment: fixed;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-image: url(/Users/mikemarques/Desktop/Atom/Projects/hitPausePodcast/images/HitPause_Logo_V2_HD.png)
+}
 
+footer{
+  font-size: 10;
+}
